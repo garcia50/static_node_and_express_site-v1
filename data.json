@@ -8,8 +8,8 @@
       "live_link": "https://garcia50.github.io/random_quote_generator/",
       "github_link": "https://github.com/garcia50/random_quote_generator",
       "image_urls": [
-        "../images/rqg1.png",
-        "../images/rqg2.png"
+        "../static/images/rqg1.png",
+        "../static/images/rqg2.png"
       ]
     }, 
     {
@@ -20,8 +20,8 @@
       "live_link": "https://garcia50.github.io/list_pagination_and_filtering-v1/",
       "github_link": "https://github.com/garcia50/list_pagination_and_filtering-v1",
       "image_urls": [
-        "../images/lpaf1.png",
-        "../images/lpaf2.png"
+        "../static/images/lpaf1.png",
+        "../static/images/lpaf2.png"
       ]
     }, 
     {
@@ -32,8 +32,8 @@
       "live_link": "https://garcia50.github.io/interactive-form-v1/",
       "github_link": "https://github.com/garcia50/interactive-form-v1",
       "image_urls": [
-        "../images/if1.png",
-        "../images/if2.png"
+        "../static/images/if1.png",
+        "../static/images/if2.png"
       ]
     },
     {
@@ -44,9 +44,9 @@
       "live_link": "https://garcia50.github.io/oop_game-v2/",
       "github_link": "https://github.com/garcia50/oop_game-v2",
       "image_urls": [
-        "../images/oopg1.png",
-        "../images/oopg2.png",  
-        "../images/oopg3.png"
+        "../static/images/oopg1.png",
+        "../static/images/oopg2.png",  
+        "../static/images/oopg3.png"
       ]
     },
     {
@@ -57,11 +57,12 @@
       "live_link": "https://garcia50.github.io/public_api_request-v1/",
       "github_link": "https://github.com/garcia50/public_api_request-v1",
       "image_urls": [
-        "../images/par1.png",
-        "../images/par2.png"
+        "../static/images/par1.png",
+        "../static/images/par2.png"
       ]
     }
-  ]
+  ],
+  "thumbnail": "../static/images/me.jpg"
 }
 
 
