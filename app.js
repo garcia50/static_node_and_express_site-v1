@@ -21,6 +21,7 @@ app.use('/projects', projectsRoute);
 app.use((req, res, next) => {
   const err = new Error('Page Not Found');
   err.status = 404;
+  console.log("Sorry, but the page your looking for does not exist.");
   next(err); 
 });
 

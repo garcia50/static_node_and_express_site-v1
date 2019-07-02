@@ -1,4 +1,3 @@
-
 //Extra Credit
 h1,h2,h3,h4,h5,p{
   font-family: 'Ubuntu', sans-serif;
@@ -150,21 +149,28 @@ a:hover{
 }
 
 .portfolio-bio{
-    line-height: 25px;
+  line-height: 25px;
 }
 
 //Extra Credit
 .zoom {
   padding: 8px;
-  transition: transform .2s; /* Animation */
   margin: 0 auto;
 }
 
 .zoom:hover {
-  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(1.2); 
+  transition: 0.4s;
+}
+
+.zoom{ 
+  transition: 0.3s;
 }
 
 .grid-x {
+  display: flex;
+  justify-content: center;
   padding: 10px;
   background-color: beige;
 }
+
